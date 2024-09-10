@@ -1,0 +1,86 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  },
+  "editor.rulers": [120],
+  "editor.wordWrapColumn": 120,
+  "editor.wordWrap": "bounded",
+  "editor.fontFamily": "Cascadia Code", //JetBrains Mono, FiraCode Nerd Font, Cascadia Code
+  "editor.fontLigatures": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.fontSize": 16,
+  "editor.lineHeight": 26,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.suggestSelection": "first",
+
+  "terminal.integrated.cursorStyle": "line",
+  "editor.guides.bracketPairs": "active",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "git.enableSmartCommit": true,
+  "workbench.startupEditor": "none",
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "files.autoSave": "onFocusChange",
+  "gitlens.views.branches.branches.layout": "list",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "workbench.tree.indent": 10,
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "extensions.ignoreRecommendations": true,
+  "explorer.openEditors.visible": 9,
+  "editor.glyphMargin": false,
+  "window.menuBarVisibility": "toggle",
+  "editor.semanticHighlighting.enabled": false,
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.editor.labelFormat": "short",
+  "window.titleBarStyle": "custom",
+  "editor.hideCursorInOverviewRuler": true,
+  "workbench.activityBar.location": "top",
+  "editor.unicodeHighlight.allowedCharacters": {
+    "​": true
+  },
+  //custom settings
+  "editor.linkedEditing": true,
+  "files.eol": "\n",
+  "security.workspace.trust.untrustedFiles": "open",
+  "eslint.run": "onType",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.fontFamily": "JetBrains Mono, FiraCode Nerd Font, Cascadia Code",
+  "terminal.integrated.fontSize": 14,
+  "terminal.external.linuxExec": "warp-terminal",
+  "window.customTitleBarVisibility": "auto",
+  "breadcrumbs.enabled": false,
+  "workbench.iconTheme": "sakai-icons",
+  "symbols.hidesExplorerArrows": true,
+
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "editor.minimap.enabled": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "discord.detailsEditing": "Editando {file_name}",
+  "discord.detailsIdling": "Tomando um café",
+
+  "terminal.integrated.env.windows": {},
+  "explorer.decorations.colors": false,
+  "explorer.decorations.badges": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "console-ninja.featureSet": "Community",
+  "workbench.colorTheme": "Anysphere dark",
+  "cody.autocomplete.enabled": true
+}
